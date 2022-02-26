@@ -202,5 +202,9 @@ a{
     .logo{
         display: flex;
     }
+    
+    .logo{
+    visibility:visible;
+    }
 }
 
