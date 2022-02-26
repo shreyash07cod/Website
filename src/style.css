@@ -200,7 +200,7 @@ a{
     }
 
     .logo{
-        display: none;
+        display: flex;
     }
 }
 
